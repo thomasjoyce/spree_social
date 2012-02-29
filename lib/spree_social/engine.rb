@@ -1,22 +1,22 @@
 module SpreeSocial
 
   OAUTH_PROVIDERS = [
-    ["Bit.ly", "bitly"],
+    #["Bit.ly", "bitly"],
     ["Facebook", "facebook"],
-    ["Foursquare", "foursquare"],
-    ["Github", "github"],
-    ["Google", "google"] ,
-    ["Gowalla", "gowalla"],
-    ["instagr.am", "instagram"],
-    ["Instapaper", "instapaper"],
-    ["LinkedIn", "linked_in"],
-    ["37Signals (Basecamp, Campfire, etc)", "thirty_seven_signals"],
-    ["Twitter", "twitter"],
-    ["Vimeo", "vimeo"],
-    ["Yahoo!", "yahoo"],
-    ["YouTube", "you_tube"],
-    ["Vkontakte", "vkontakte"],
-    ["Mailru", "mailru"]
+    #["Foursquare", "foursquare"],
+    #["Github", "github"],
+    #["Google", "google"] ,
+    #["Gowalla", "gowalla"],
+    #["instagr.am", "instagram"],
+    #["Instapaper", "instapaper"],
+    #["LinkedIn", "linked_in"],
+    #["37Signals (Basecamp, Campfire, etc)", "thirty_seven_signals"],
+    #["Twitter", "twitter"],
+    #["Vimeo", "vimeo"],
+    #["Yahoo!", "yahoo"],
+    #["YouTube", "you_tube"],
+    #["Vkontakte", "vkontakte"],
+    #["Mailru", "mailru"]
     #["Blogger", "blogger"],
     #["Dropbox", "dropbox"]
   ]
